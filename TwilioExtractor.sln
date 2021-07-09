@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioExtractor", "TwilioExtractor\TwilioExtractor.csproj", "{D62BA04C-60A9-4028-915B-DC59A77BA296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioExtractor.Console", "TwilioExtractor.Console\TwilioExtractor.Console.csproj", "{941A7B78-DABE-4197-A7A4-431D1AFCFF8E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TwillioExtractor.Setup", "TwillioExtractor.Setup\TwillioExtractor.Setup.vdproj", "{BEC51D0B-DCEA-4DF0-8038-DE86B800B0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62BA04C-60A9-4028-915B-DC59A77BA296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62BA04C-60A9-4028-915B-DC59A77BA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62BA04C-60A9-4028-915B-DC59A77BA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62BA04C-60A9-4028-915B-DC59A77BA296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941A7B78-DABE-4197-A7A4-431D1AFCFF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941A7B78-DABE-4197-A7A4-431D1AFCFF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941A7B78-DABE-4197-A7A4-431D1AFCFF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941A7B78-DABE-4197-A7A4-431D1AFCFF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC51D0B-DCEA-4DF0-8038-DE86B800B0AD}.Debug|Any CPU.ActiveCfg = Debug
+		{BEC51D0B-DCEA-4DF0-8038-DE86B800B0AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D583B3D-63A7-49DA-AB8E-288947FCDA28}
+	EndGlobalSection
+EndGlobal
